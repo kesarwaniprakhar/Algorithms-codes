@@ -1,2 +1,2 @@
 # Algorithms-codes
-contains algorithms codes
+contains algorithms codes implemented using python
