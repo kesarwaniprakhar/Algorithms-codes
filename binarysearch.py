@@ -18,7 +18,7 @@ mid = (first+last)//2
 num = int (input('Enter the number to be searched in the list'))
 
 
-while mid is not first:
+while first <= last:
    # print(num)
     mid = (first+last)//2
     if list1[mid] is num:
